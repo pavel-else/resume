@@ -20,12 +20,13 @@ Photoshop/avacode
 
 Опыт работы:  
 С 2015 года работаю в техникуме системным администратором.  
-Разрабатываю оф.сайт учреждения.  
-Поддерживаю сайт местного православного прихода.  
+Разрабатываю <a href="http://atoit.ru">оф.сайт учреждения</a>  
+Поддерживаю <a href="http://inb.cerkov.ru">сайт местного православного прихода.</a>  
 Верстаю <a href="#">1</a>, <a href="#">2</a>, <a href="#">3</a>  
-В 2015 году разрабатывал <a href="#">сервис отсроченной отправки сообщений</a> 
+В 2015 году разрабатывал <a href="http://shmail.esy.es">сервис отсроченной отправки сообщений</a> 
 
-Моё скромное <a href="https://pavel-else.github.io">портфолио</a> 
+Моё скромное <a href="https://pavel-else.github.io">портфолио</a>  
+<a href="https://github.com/pavel-else?tab=repositories">Ссылка на гитхаб</a>  
 
 Образование  
 Высшее.  
@@ -36,7 +37,7 @@ Photoshop/avacode
 <a href="https://htmlacademy.ru/profile/id243899">HTMLAcademy</a>  
 
 Контакты:  
-email: de.pavel.se@yandex.ru
+email: de.pavel.se@yandex.ru  
 telegram: @pavel-else  
 skype: de.pavel.se  
 github: pavel-else  
