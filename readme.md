@@ -22,7 +22,7 @@ Photoshop/avacode
 С 2015 года работаю в техникуме системным администратором.  
 Разрабатываю <a href="http://atoit.ru">оф.сайт учреждения</a>  
 Поддерживаю <a href="http://inb.cerkov.ru">сайт местного православного прихода.</a>  
-Верстаю <a href="#">1</a>, <a href="#">2</a>, <a href="#">3</a>  
+Верстаю <a href="https://pavel-else.github.io/gllacy/index.html">1</a>, <a href="https://pavel-else.github.io/cake/index.html">2</a>, <a href="https://pavel-else.github.io/Templatemonster-53088/index.html">3</a>  
 В 2015 году разрабатывал <a href="http://shmail.esy.es">сервис отсроченной отправки сообщений</a> 
 
 Моё скромное <a href="https://pavel-else.github.io">портфолио</a>  
